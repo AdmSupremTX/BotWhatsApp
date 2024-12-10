@@ -1,0 +1,24 @@
+{
+  "name": "bot-answer-sn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node SN.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.8",
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "puppeteer": "^23.9.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.5",
+    "whatsapp-web.js": "^1.26.0",
+    "ytdl-core": "^4.11.5"
+  }
+}
